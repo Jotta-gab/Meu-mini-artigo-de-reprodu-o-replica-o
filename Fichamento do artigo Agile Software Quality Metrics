@@ -1,0 +1,53 @@
+# Métricas de Desenvolvimento Ágil e Qualidade de Software
+
+Boehm, Barry; Turner, Richard. "Agile Metrics and Software Quality: A Review," in IEEE MetroCon, pp. 1-10, 2021.
+
+[DOI: 10.1109/METROCON54219.2021.9666049](https://doi.org/10.1109/METROCON54219.2021.9666049)
+
+## 1. Fichamento de Conteúdo
+
+O artigo aborda a questão das métricas no contexto do desenvolvimento ágil de software, explorando a maturidade das métricas de qualidade ágil em comparação com as métricas tradicionais de desenvolvimento de software. Ele destaca a crescente adoção do desenvolvimento ágil em diversas indústrias, incluindo setores como o Departamento de Defesa (DoD), que anteriormente utilizavam predominantemente práticas de desenvolvimento em cascata. Ao enfatizar a importância das métricas para avaliar o progresso do projeto e a qualidade do software, o artigo propõe um framework para seleção de métricas ágeis e apresenta um conjunto fundamental de métricas de qualidade ágil. Ao revisar a literatura e os relatórios da indústria, o estudo identificou mais de 135 métricas ágeis únicas, destacando a falta de padronização e iniciativas de comunalidade nesse campo. Além disso, o artigo discute a emergência de métricas relacionadas ao DevOps e destaca a convergência de melhores práticas da indústria em relação às métricas ágeis. No que diz respeito às métricas de qualidade de software ágil, o artigo propõe um conjunto de métricas principais, incluindo eficiência de teste, eficiência de remoção de defeitos, porcentagem de escape de produção e taxa de falha de mudança, que são consideradas essenciais para avaliar a qualidade do software em projetos ágeis.
+
+## 2. Fichamento Bibliográfico
+
+### Framework para Seleção de Métricas Ágeis:
+O artigo propõe um framework para seleção de métricas ágeis, destacando a importância de métricas adequadas para avaliar o progresso do projeto e a qualidade do software em ambientes ágeis.
+
+### Falta de Padronização e Comunalidade:
+O estudo identifica mais de 135 métricas ágeis únicas, ressaltando a falta de padronização e iniciativas de comunalidade nesse campo.
+
+### Conjunto Fundamental de Métricas de Qualidade Ágil:
+Uma seleção de métricas de qualidade ágil é apresentada, incluindo eficiência de teste, eficiência de remoção de defeitos, porcentagem de escape de produção e taxa de falha de mudança, que são recomendadas como ponto de partida para avaliação de qualidade em projetos ágeis.
+
+### Emergência de Métricas Relacionadas ao DevOps:
+O artigo discute a emergência de métricas relacionadas ao DevOps, como frequência de implantação, tempo de lead para mudanças, tempo médio para recuperação (MTTR) e taxa de falha na mudança, que estão se tornando mais comuns em projetos que integram desenvolvimento de software e operações de TI em ambientes de CI/CD automatizados.
+
+## 3. Fichamento de Citações
+
+- "Sound metrics are key underpinnings of successful software development, and they have matured steadily for traditional software development over the past 30 years."
+  
+Tradução: "Métricas sólidas são fundamentos essenciais para o desenvolvimento de software bem-sucedido, e elas amadureceram constantemente para o desenvolvimento de software tradicional ao longo dos últimos 30 anos."
+
+- "The benefits of Agile development practices have been realized and have led to subsequent widespread adoption of Agile."
+
+Tradução: "Os benefícios das práticas de desenvolvimento ágil foram percebidos e levaram à subsequente adoção generalizada do ágil."
+
+- "The approach has recently been introduced to other domains such as the Department of Defense programs where software development for a major release spans one or more years."
+
+Tradução: "A abordagem foi recentemente introduzida em outros domínios, como os programas do Departamento de Defesa, onde o desenvolvimento de software para um lançamento principal abrange um ou mais anos."
+
+- "Although there are many publications detailing metrics and their respective variants, little formal standardization exists."
+
+Tradução: "Embora haja muitas publicações detalhando métricas e suas respectivas variantes, pouca padronização formal existe."
+
+- "There seems to be some commonality across the top/popular metrics. This evidence suggests that industry best practices are generally converging."
+
+Tradução: "Parece haver alguma semelhança entre as principais métricas/populares. Essa evidência sugere que as melhores práticas da indústria geralmente estão convergindo."
+
+- "The identification of a small set of Agile quality metrics is consistent with Lew’s suggestion to keep the identification of metrics simple by starting with a 'handful of metrics'."
+
+Tradução: "A identificação de um pequeno conjunto de métricas de qualidade ágeis é consistente com a sugestão de Lew de manter a identificação de métricas simples começando com um 'punhado de métricas'."
+
+- "Since Agile metrics are collected during each development increment, the frequent cadence results in increased transparency, enables more proactive project monitoring, and provides feedback to support decisions throughout the development lifecycle."
+
+Tradução: "Como as métricas ágeis são coletadas durante cada incremento de desenvolvimento, a cadência frequente resulta em aumento da transparência, permite um monitoramento mais proativo do projeto e fornece feedback para apoiar decisões ao longo do ciclo de vida do desenvolvimento."
