@@ -109,7 +109,7 @@ Em suma, a reprodução deste estudo reforça a importância das métricas de qu
 
 **Agradecimentos:**
 
-Este artigo foi elaborado como parte da atividade de reprodução ou replicação da disciplina de Introdução à Pesquisa em Informática, lecionada pelo professor Lesandro Ponciano, no curso de Engenharia de Software da PUC Minas, no turno matutino, no primeiro semestre de 2024. O texto foi produzido usando a ferramenta Overleaf e o link público do texto é [Inserir link público do texto].
+Este artigo foi elaborado como parte da atividade de reprodução ou replicação da disciplina de Introdução à Pesquisa em Informática, lecionada pelo professor Lesandro Ponciano, no curso de Engenharia de Software da PUC Minas, no turno matutino, no primeiro semestre de 2024. O texto foi produzido usando a ferramenta Overleaf e o link público do texto é [https://pt.overleaf.com/2164277377rgjbnhfzmysk#86c159].
 
 **Referências:**
 
