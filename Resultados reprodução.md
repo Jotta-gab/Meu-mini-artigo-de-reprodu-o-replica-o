@@ -9,15 +9,10 @@ Para reproduzir o experimento, utilizamos dados simulados que representam result
 | Métrica                                  | Valor Total | Valor Passado | Valor Falhado |
 |--------------------------------------------|-------------------|-------------------------|------------------------|
 | Total de Testes                     | 100             | 90                      | 10                      |
-
 | Total de Defeitos                  | 50                | 40                      | -                         |
-
 | Defeitos Corrigidos              | -                    | 40                     | -                         |
-
 | Defeitos em Produção         | -                    | -                        | 5                        |
-
 | Total de Mudanças              | 20                 | -                        | -                         |
-
 | Mudanças com Falha          | -                     | -                       | 2                        |
 
 
@@ -46,11 +41,8 @@ Os resultados das métricas calculadas são apresentados na tabela a seguir:
 | Métrica                                                               | Resultado |
 |----------------------------------------------------------------------|------------------|
 | Eficiência do Teste                                             |  90.00%   |
-
 | Eficiência de Remoção de Defeitos                 |  80.00%   |
-
 | Porcentagem de Defeitos em Produção         |  10.00%   |
-
 | Taxa de Falha na Mudança                               |  10.00%   |
 
 
