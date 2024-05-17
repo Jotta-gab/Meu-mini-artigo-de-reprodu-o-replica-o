@@ -6,10 +6,21 @@ Neste experimento, replicamos o estudo apresentado no artigo "Agile Software Qua
 
 Para reproduzir o experimento, utilizamos dados simulados que representam resultados de testes, defeitos e mudanças em um projeto de desenvolvimento de software.
 
-<div align="center">
-  <img src="https://github.com/Jotta-gab/mini-artigo-de-reproducao-replicacao-o/issues/1#issue-2301421062" width="1000px"/> 
+| Métrica                                  | Valor Total | Valor Passado | Valor Falhado |
+|--------------------------------------------|-------------------|-------------------------|------------------------|
 
-</div>
+| Total de Testes                     | 100             | 90                      | 10                      |
+
+| Total de Defeitos                  | 50                | 40                      | -                         |
+
+| Defeitos Corrigidos              | -                    | 40                     | -                         |
+
+| Defeitos em Produção         | -                    | -                        | 5                        |
+
+| Total de Mudanças              | 20                 | -                        | -                         |
+
+| Mudanças com Falha          | -                     | -                       | 2                        |
+
 
 2\. Implementação das Métricas:
 
@@ -33,10 +44,17 @@ Aplicamos as funções implementadas para calcular as métricas com base nos dad
 
 Os resultados das métricas calculadas são apresentados na tabela a seguir:
 
-<div align="center">
-  <img src="https://github.com/Jotta-gab/mini-artigo-de-reproducao-replicacao-o/issues/2#issue-2301423111" width="1000px"/> 
+| Métrica                                                               | Resultado |
+|----------------------------------------------------------------------|------------------|
 
-</div>
+| Eficiência do Teste                                             |  90.00%   |
+
+| Eficiência de Remoção de Defeitos                 |  80.00%   |
+
+| Porcentagem de Defeitos em Produção         |  10.00%   |
+
+| Taxa de Falha na Mudança                               |  10.00%   |
+
 
 Os resultados obtidos corroboram com as métricas propostas no artigo, demonstrando sua aplicabilidade na avaliação da qualidade do software em um contexto ágil. Com esta abordagem, conseguimos reproduzir o experimento proposto no artigo, utilizando dados simulados e implementando as métricas em C para verificar sua eficácia na prática.
 
